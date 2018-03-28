@@ -9,6 +9,8 @@
 
 int main()
 {
+	rawData firstsim;
+	readNetlist(0, &firstsim);
 
 }
 
