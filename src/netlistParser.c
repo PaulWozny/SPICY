@@ -68,6 +68,17 @@ free(line);
 
 void addElement(char* line, element_type elem)
 {
+	char* token = strtok(line, " ");
+
+	switch (elem) {
+		case Resistor:
+			token
+			rawData.??
+
+			break;
+		default:
+			break;
+	}
 //loop for each token in line. Token is a valid c string
 /*
 	char* token = strtok(line, " ");
