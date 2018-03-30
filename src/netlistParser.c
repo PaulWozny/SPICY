@@ -72,8 +72,8 @@ void addElement(char* line, element_type elem)
 
 	switch (elem) {
 		case Resistor:
-			token
-			rawData.??
+//			token
+//			rawData.??
 
 			break;
 		default:
